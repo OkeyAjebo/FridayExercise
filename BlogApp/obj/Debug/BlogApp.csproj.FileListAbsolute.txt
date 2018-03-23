@@ -1,0 +1,14 @@
+C:\Users\Okeyoshe\source\repos\BlogApp\BlogApp\bin\Debug\BlogApp.dll.config
+C:\Users\Okeyoshe\source\repos\BlogApp\BlogApp\bin\Debug\BlogApp.dll
+C:\Users\Okeyoshe\source\repos\BlogApp\BlogApp\bin\Debug\BlogApp.pdb
+C:\Users\Okeyoshe\source\repos\BlogApp\BlogApp\bin\Debug\EntityFramework.dll
+C:\Users\Okeyoshe\source\repos\BlogApp\BlogApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Okeyoshe\source\repos\BlogApp\BlogApp\bin\Debug\EntityFramework.xml
+C:\Users\Okeyoshe\source\repos\BlogApp\BlogApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Okeyoshe\source\repos\BlogApp\BlogApp\obj\Debug\BlogApp.csprojResolveAssemblyReference.cache
+C:\Users\Okeyoshe\source\repos\BlogApp\BlogApp\obj\Debug\BlogApp.csproj.CoreCompileInputs.cache
+C:\Users\Okeyoshe\source\repos\BlogApp\BlogApp\obj\Debug\BlogApp.csproj.CopyComplete
+C:\Users\Okeyoshe\source\repos\BlogApp\BlogApp\obj\Debug\BlogApp.dll
+C:\Users\Okeyoshe\source\repos\BlogApp\BlogApp\obj\Debug\BlogApp.pdb
+C:\Users\Okeyoshe\source\repos\BlogApp\BlogApp\obj\Debug\BlogApp.Migrations.Initial.resources
+C:\Users\Okeyoshe\source\repos\BlogApp\BlogApp\obj\Debug\BlogApp.csproj.GenerateResource.cache
